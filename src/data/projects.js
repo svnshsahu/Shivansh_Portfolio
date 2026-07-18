@@ -136,8 +136,8 @@ const projects = [
       "Designing a professional and visually appealing user interface",
       "Managing routing between internal project pages and externally deployed projects",
     ],
-    github: "https://github.com/svnshsahu/portfolio", // Update with your repository
-    live: "https://your-portfolio.vercel.app/",        // Update after deployment
+    github: "https://github.com/svnshsahu/Shivansh_Portfolio", // Update with your repository
+    live: "https://www.shivanshsahu.website/",        // Update after deployment
     Deploy: true,
     Demo : true
   }
