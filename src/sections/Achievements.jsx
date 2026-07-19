@@ -71,7 +71,7 @@ const achievements = [
     title: "250+ Day Consistency Streak",
     subtitle: "Logical Reasoning",
     description:
-      "Maintained a 250+ day streak on logic and puzzle-solving games, demonstrating discipline and analytical thinking.",
+      "Maintained a 250+ day streak in zip, sudoku, queens, tango game in Linkedin .",
     icon: FaBrain,
     color: "text-red-400",
   },
