@@ -4,7 +4,7 @@ A modern, responsive developer portfolio built with **React** and **Tailwind CSS
 
 ## 🚀 Live Demo
 
-**Portfolio:** *(Add your deployed portfolio link here)*
+**Portfolio:** https://www.shivanshsahu.website/
 
 ---
 
@@ -49,28 +49,12 @@ src/
 ├── components/
 ├── data/
 ├── pages/
+├── router/
+└── sections/
 ├── App.jsx
 └── main.jsx
 ```
 
----
-
-## 📁 Featured Projects
-
-* GitHub Analyzer
-* Hostel Management System
-* Weather Application
-* JavaScript Mini Projects
-* React Projects
-
-Each project includes:
-
-* Project overview
-* Technologies used
-* Key features
-* Challenges faced
-* Source code
-* Live demo
 
 ---
 
