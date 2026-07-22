@@ -96,7 +96,7 @@ const projects = [
     slug: "spotify-clone",
     title: "Spotify Clone",
     description:
-      "A recreation of Spotify's user interface built with HTML and CSS, focused on responsive layouts and modern UI design.",
+      "A recreation of Spotify's user interface built with HTML and CSS, focused on modern UI design.",
     image:
       "https://res.cloudinary.com/dub1jfilx/image/upload/v1784379622/Screenshot_2026-07-18_183005_tvqcjo.png",
     technologies: ["HTML5", "CSS3"],
